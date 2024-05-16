@@ -1,0 +1,22 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Build output directories
+dist/
+build/
+
+# Local environment files
+.env
+
+# OS-specific files
+.DS_Store
+
+# IDE/editor specific files
+.vscode/
+.idea/
+
+# Other files and directories specific to your project

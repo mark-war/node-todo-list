@@ -1,0 +1,19 @@
+# Ignore the environment file
+.env
+
+# Ignore the gitignore file (optional)
+.gitignore
+
+# Node.js dependencies
+node_modules
+
+# Logs
+logs
+*.log
+
+# Build directory
+dist
+build
+
+# Other files you might want to ignore
+.DS_Store
