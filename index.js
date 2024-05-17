@@ -8,7 +8,7 @@ app.use(express.urlencoded({extended: true}))
 
 //API health check
 app.get('/', (request, response) => {
-    return response.send(`Application running on http://localhost:${PORT}`)
+    return response.send('Application running!')
 })
 
 // GET API /todos
